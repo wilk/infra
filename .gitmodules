@@ -1,0 +1,8 @@
+[submodule "submodule1"]
+	path = submodule1
+	url = git@github.com:wilk/submodule1.git
+	branch = master
+[submodule "submodule2"]
+	path = submodule2
+	url = git@github.com:wilk/submodule2.git
+	branch = master
